@@ -1,2 +1,3 @@
-# 3dsTemlate
-A slightly different 3ds homebrew template
+# template
+
+This is a template for starting new 3DS libctru projects.
